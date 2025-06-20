@@ -92,3 +92,14 @@ Tests cover:
 2. Monitor withdrawal delays and timing
 3. Ensure proper reward claim verification
 4. Maintain secure key management for contract ownership
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/984036f4-e791-46bf-bfc2-6e7c2add9cd5)
+
+![image](https://github.com/user-attachments/assets/cb21ce0b-1b26-4427-8fbf-47d6fdfb6388)
+
+![image](https://github.com/user-attachments/assets/747a2cd2-9ddf-4e45-892c-d6ba10c144f2)
+
