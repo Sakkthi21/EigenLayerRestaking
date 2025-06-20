@@ -1,4 +1,4 @@
-# EigenLayer Restaking Contract
+# EigenLayer Restaking
 
 ## Overview
 This project implements a smart contract system for restaking Rocket Pool's rETH (Rocket Pool ETH) through EigenLayer, a protocol that enables restaking of staked ETH to secure additional protocols. The system allows users to deposit rETH, delegate it to operators, and manage withdrawals and rewards.
